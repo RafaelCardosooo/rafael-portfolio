@@ -1,18 +1,34 @@
-# Portfólio - Rafael Cardoso
+# Olá, eu sou o Rafael Cardoso
 
-Meu portfólio pessoal como Dev Front-end em Desenvolvimento.
+Bem-vindo ao meu portfólio pessoal!
+Aqui eu reúno meus projetos, estudos e evolução.
 
-🔗 **Site no ar:** https://rafael-dev-portfolio.netlify.app/
-🔗 **LinkedIn:** https://linkedin.com/in/rafael-cardoso-09198842a/
+### Acesse meu site ao vivo:
+** https://rafael-dev-portfolio.netlify.app/**
 
-## Tecnologias
-- HTML5
-- CSS3
-- JavaScript
-- Netlify (deploy)
+### Onde me encontrar:
+- **LinkedIn:** https://www.linkedin.com/in/rafael-cardoso-09198842a/
+- **GitHub:** https://github.com/RafaelCardosooo
 
-## Sobre o projeto
-Portfólio criado para apresentar meus projetos e evolução como desenvolvedor.
+### O que estou usando / aprendendo
+- HTML5, CSS3 e JavaScript
+- Lógica de programação
+- Git e GitHub
+- Hospedagem com Netlify
 
-## Como rodar
-É só abrir o index.html no navegador ou acessar o link do Netlify.
+### Projetos
+**1. Interruptor de Luz Interativo**
+> Projeto que simula luz acendendo e apagando com efeitos visuais.
+> - **Ver funcionando:** https://rafaelcardosooo.github.io/interruptor-de-luz/
+> - **Código no GitHub:** https://github.com/RafaelCardosooo/interruptor-de-luz
+
+Tem mais projetos dentro do meu site!
+
+### Sobre este repositório
+Esse é o código do meu portfólio. Criei para mostrar na prática o que estou aprendendo e deixar tudo organizado em um só lugar.
+
+### Como ver
+É só clicar no link do site lá em cima.
+
+---------------------------------------
+Feito por Rafael Cardoso | 2026
