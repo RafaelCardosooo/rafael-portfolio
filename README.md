@@ -3,7 +3,7 @@
 Meu portfólio pessoal como Dev Front-end em Desenvolvimento.
 
 🔗 **Site no ar:** https://rafael-dev-portfolio.netlify.app/
-🔗 **LinkedIn:** https://linkedin.com/in/rafael-cardoso-0919842a/
+🔗 **LinkedIn:** https://linkedin.com/in/rafael-cardoso-09198842a/
 
 ## Tecnologias
 - HTML5
